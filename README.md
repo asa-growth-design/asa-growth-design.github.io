@@ -1,2 +1,4 @@
 # asa-growth-design.github.io
-Asa Growth Design Small Business Assessment
+This is the repository for the Asa Growth Design Small Business Assessment.
+
+https://asa-growth-design.github.io/
